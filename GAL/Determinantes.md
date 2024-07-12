@@ -1,4 +1,5 @@
-        <h1>3. Determinantes</h1>
+        3. Determinantes
+========================
 
   El determinante de una matriz cuadrada es un único número que se 
 asocia a dicha matriz; es por tanto una función del conjunto de las matrices
