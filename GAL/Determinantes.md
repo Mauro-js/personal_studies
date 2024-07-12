@@ -20,7 +20,7 @@ tan definitoria de una matriz (su invertibilidad) estará caracterizada por
 la no nulidad de su determinante (o sea por el valor de un único número).
 
 
-      3.1 Definición
+##3.1 Definición
 
   La definición de determinante de una matriz cuadrada será dada de manera
 inductiva en el número de filas (o de columnas). O sea, daremos la definición
