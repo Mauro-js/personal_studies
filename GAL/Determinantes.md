@@ -1,8 +1,8 @@
 #        3. Determinantes
 
   El determinante de una matriz cuadrada **es un único número** que se 
-asocia a dicha matriz; es por tanto una función del conjunto de las matrices
-cuadradas en el conjunto numérico al que pertenecen los elementos de
+asocia a dicha matriz; es por tanto una **función del conjunto de las matrices
+cuadradas** en el conjunto numérico al que pertenecen los elementos de
 las matrices. En nuestro caso estos números serán los reales o los
 complejos, pero se puede dar sobre conjuntos "numéricos" más generales.
 
