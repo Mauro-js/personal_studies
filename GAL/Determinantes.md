@@ -22,10 +22,21 @@ El determinante de una matriz A *n* X *n* se define como el número
 
 |A|<sup>def</sup>= (-1)<sup>1+1</sup> a<sub>11</sub> |A<sub>11</sub>| + ... + (-1)<sup>*i*+1</sup> a<sub>*i*1</sub> |A*i*1| + ... + (-1)<sup>*n*+1</sup> a<sub>*n*1</sub> |A*n*1|
 
+
+## 3.2 Propiedades de los determinantes
+
+### Linealidad (respecto a una fila)
+
+#### a) Aditividad (respectoo a una fila)
+
 $$
-A=
+C=
 \begin{bmatrix}
-1 & 2 & 3 \cr
-4 & 5 & 6
+*a*<sub>11</sub> & *a*<sub>12</sub> & ... & a<sub>1n</sub> \cr
+: & : & ... & :
 \end{bmatrix}
 $$
+
+
+
+
