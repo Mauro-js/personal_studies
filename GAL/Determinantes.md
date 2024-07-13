@@ -58,6 +58,15 @@ a_{n1} & a_{n2} & ... & a_{nn}
 |A| + |B|
 $$
 
+**DEMOSTRACIÓN.** Por inducción completa
+Para *n* = 2. Por un lado 
 
-
-
+$$
+C=
+\begin{bmatrix}
+a_{11} & a_{12} \cr
+a_{21} + b_{21} & a_{22} + b_{22} \cr
+\end{bmatrix}
+\=
+a_{11}a_{22} + a_{11}b{22} - a_{12}a_{21} - a_{12}b{21}
+$$
