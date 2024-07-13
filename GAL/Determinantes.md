@@ -32,9 +32,9 @@ El determinante de una matriz A *n* X *n* se define como el número
 $$
 C=
 \begin{bmatrix}
-a_11_ & a_12_ & ... & a_1n \cr
+a_{11} & a_{12} & ... & a_{1n} \cr
 : & : & ... & :  \cr
-a_i1 + b_i1 & a_i2 + b_i2 & ... & a_in + b_in
+a_{i1} + b_{i1} & a_{i2} + b_{i2} & ... & a_{in} + b_{in}
 \end{bmatrix}
 $$
 
