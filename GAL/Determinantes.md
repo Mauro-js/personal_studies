@@ -18,4 +18,14 @@
 **DEFINICIÓN** 3.2 **(Inductiva en el tamaño de la matriz)** El determinante de una mantriz 1 X 1 es el propio número. El determinante de la matriz 2 X 2,  A = (a b, c d) es el número |A|<sup>def</sup>= ad - bc
 
 El determinante de una matriz A *n* X *n* se define como el número
+
+
 |A|<sup>def</sup>= (-1)<sup>1+1</sup> a<sub>11</sub> |A<sub>11</sub>| + ... + (-1)<sup>*i*+1</sup> a<sub>*i*1</sub> |A*i*1| + ... + (-1)<sup>*n*+1</sup> a<sub>*n*1</sub> |A*n*1|
+
+$$
+A=
+\begin{bmatrix}
+1 & 2 & 3 \cr
+4 & 5 & 6
+\end{bmatrix}
+$$
