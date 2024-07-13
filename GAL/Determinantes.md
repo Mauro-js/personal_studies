@@ -33,7 +33,8 @@ $$
 C=
 \begin{bmatrix}
 a_11 & a_12 & ... & a_1n \cr
-: & : & ... & :
+: & : & ... & :  \cr
+a_i1 + b_i1 & a_i2 + b_i2 & ... & a_in + b_in
 \end{bmatrix}
 $$
 
