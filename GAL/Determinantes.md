@@ -32,7 +32,7 @@ El determinante de una matriz A *n* X *n* se define como el número
 $$
 C=
 \begin{bmatrix}
-a11 & a12 & ... & a 1n$ \cr
+a11 & a12 & ... & a_1n \cr
 : & : & ... & :
 \end{bmatrix}
 $$
