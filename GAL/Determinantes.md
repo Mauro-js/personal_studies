@@ -59,6 +59,7 @@ a_{n1} & a_{n2} & ... & a_{nn}
 $$
 
 **DEMOSTRACIÓN.** Por inducción completa
+
 Para *n* = 2. Por un lado 
 
 $$
@@ -70,3 +71,22 @@ a_{21} + b_{21} & a_{22} + b_{22} \cr
 \=
 a_{11}a_{22} + a_{11}b_{22} - a_{12}a_{21} - a_{12}b_{21}
 $$
+
+y por otro
+
+$$
+|A| + |B| = 
+\begin{bmatrix}
+a_{11} & a_{12} \cr
+a_{21} & a_{22} \cr
+\end{bmatrix}
++
+\begin{bmatrix}
+a_{11} & a_{12} \cr
+b_{21} & b_{22} \cr
+\end{bmatrix}
+\=
+(a_{11}a_{22} - a_{12}a_{21}) + (a_{11}b_{22} - a_{12}b_{21})
+$$
+
+Con lo cual |C| = |A| + |B|.
