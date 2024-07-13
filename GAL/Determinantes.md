@@ -4,7 +4,7 @@
 
 >  El uso del determinante surgió de las fórmulas que dan las soluciones de sistemas de n ecuaciones con n incógnitas, luego fue identificado (en el caso 3 por 3) como área de paralelogramo o volumen de un paralelepípedo, hasta extenderse a definiciones más generales que la que nosotros daremos en este curso (función multilineal alternada).
 
->  Más adelante se verá que podemos hablar del determinante de una tranformación lineal entre espacios vectoriales, a la que se puede asociar matrices de una manera sencilla. En particular las matrices invertibles son las únicas que tienen determinantes distintos de cero. Así, una propiedad tan definitoria de una matriz (su invertibilidad) estará caracterizada por la no nulidad de su determinante (o sea por el valor de un único número).
+#####  Más adelante se verá que podemos hablar del determinante de una tranformación lineal entre espacios vectoriales, a la que se puede asociar matrices de una manera sencilla. En particular las matrices invertibles son las únicas que tienen determinantes distintos de cero. Así, una propiedad tan definitoria de una matriz (su invertibilidad) estará caracterizada por la no nulidad de su determinante (o sea por el valor de un único número).
 
 
 ## 3.1 Definición
