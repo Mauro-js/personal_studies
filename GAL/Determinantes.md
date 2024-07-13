@@ -38,6 +38,22 @@ a_{i1} + b_{i1} & a_{i2} + b_{i2} & ... & a_{in} + b_{in}  \cr
 : & : & ... & :  \cr
 a_{n1} & a_{n2} & ... & a_{nn} 
 \end{bmatrix}
+=
+\begin{bmatrix}
+a_{11} & a_{12} & ... & a_{1n} \cr
+: & : & ... & : \cr
+a_{i1} & a_{i2} & ... & a_{in} \cr
+: & : & ... & : \cr
+a_{n1} & a_{n2} & ... & a_{nn} 
+\end{bmatrix}
++
+\begin{bmatrix}
+a_{11} & a_{12} & ... & a_{1n} \cr
+: & : & ... & : \cr
+b_{i1} & b_{i2} & ... & b_{in} \cr
+: & : & ... & : \cr
+a_{n1} & a_{n2} & ... & a_{nn} 
+\end{bmatrix}
 $$
 
 
