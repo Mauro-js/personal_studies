@@ -138,9 +138,9 @@ $$
 
 luego si sustituimos en (3.18) se tiene que 
 
-$$
+
 |C| 
-$$
+
 
 =
 
