@@ -90,3 +90,11 @@ b_{21} & b_{22} \cr
 $$
 
 Con lo cual |C| = |A| + |B|.
+
+Hipótesis inductiva: La propiedad es válida para matrices de orden menor que n 
+
+Tesis inductiva: La propiedad es válida para matrices de orden n.
+
+En efecto
+
+|C| <sup>def</sup>= (-1)<sup>1+1</sup>*a*<sub>11</sub> |C<sub>11</sub>| + ... + (-1)<sup>*i*+1</sup>(a<sub>*i*1</sub> + b<sub>*i*1</sub>) |C<sub>*i*1</sub>| + ... + (-1)<sup>*n*+1</sup> a<sub>*n*1</sub> |C<sub>*n*1</sub>|
