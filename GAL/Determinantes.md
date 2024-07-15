@@ -97,7 +97,7 @@ Tesis inductiva: La propiedad es válida para matrices de orden n.
 
 En efecto
 
-(3.18)   |C| <sup>def</sup>= (-1)<sup>1+1</sup>*a*<sub>11</sub> |C<sub>11</sub>| + ... + (-1)<sup>*i*+1</sup>(a<sub>*i*1</sub> + b<sub>*i*1</sub>) |C<sub>*i*1</sub>| + ... + (-1)<sup>*n*+1</sup> a<sub>*n*1</sub> |C<sub>*n*1</sub>|
+<code>(3.18)</code>  |C| <sup>def</sup>= (-1)<sup>1+1</sup>*a*<sub>11</sub> |C<sub>11</sub>| + ... + (-1)<sup>*i*+1</sup>(a<sub>*i*1</sub> + b<sub>*i*1</sub>) |C<sub>*i*1</sub>| + ... + (-1)<sup>*n*+1</sup> a<sub>*n*1</sub> |C<sub>*n*1</sub>|
 
 Observemos que si $k\neq i$, como la matriz C<sub>k1</sub> es de orden $n - 1$, por la hipótesis inductiva se tiene que 
 
