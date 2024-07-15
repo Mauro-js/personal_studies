@@ -105,6 +105,7 @@ $$
 |C_{k1}| = 
 \begin{bmatrix}
 a_{12}          & ... & a_{1n}          \cr
+   :            & ... &     :           \cr
 a_{k-12}        & ... & a_{k-1n}        \cr
 a_{k+12}        & ... & a_{k+1n}        \cr
    :            & ... &     :           \cr
@@ -114,6 +115,7 @@ a_{i2} + b_{i2} & ... & a_{in} + b_{in} \cr
 \=
 \begin{bmatrix}
 a_{12}          & ... & a_{1n}          \cr
+   :            & ... &     :           \cr
 a_{k-12}        & ... & a_{k-1n}        \cr
 a_{k+12}        & ... & a_{k+1n}        \cr
    :            & ... &     :           \cr
@@ -123,6 +125,7 @@ a_{i2}          & ... & a_{in}          \cr
 \=
 \begin{bmatrix}
 a_{12}          & ... & a_{1n}          \cr
+   :            & ... &     :           \cr
 a_{k-12}        & ... & a_{k-1n}        \cr
 a_{k+12}        & ... & a_{k+1n}        \cr
    :            & ... &     :           \cr
@@ -144,6 +147,22 @@ $$
 $$
 
 
+Pero como 
+
+$$
+|C_{i1}| =
+\begin{bmatrix}
+a_{12}          & ... & a_{1n}          \cr
+   :            & ... &     :           \cr
+a_{i-12}        & ... & a_{i-1n}        \cr
+a_{i+12}        & ... & a_{i+1n}        \cr
+   :            & ... &     :           \cr
+a_{n2}          & ... & a_{nn}          \cr
+\end{bmatrix}
+= |A_{i1}| = |B_{i1}|
+$$
+
+resulta que 
 
 
 
