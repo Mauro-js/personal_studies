@@ -138,12 +138,12 @@ $$
 
 luego si sustituimos en (3.18) se tiene que 
 
-
+---
 |C| 
 
 
 =
-
+---
 $$
 (-1)^{1+1}  a_{11} [|A_{11}| + |B_11|] 
 $$
