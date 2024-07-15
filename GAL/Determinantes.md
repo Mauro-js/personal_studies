@@ -1,6 +1,6 @@
 #        3. Determinantes
 
-   El determinante de una matriz cuadrada <mark style="background-color: #FFFFFF">**es un único número** que se asocia a dicha matriz</mark>; es por tanto una **función del conjunto de las matrices cuadradas** en el conjunto numérico al que pertenecen los elementos de las matrices. En nuestro caso estos números serán los reales o los complejos, pero se puede dar sobre conjuntos "numéricos" más generales.
+   El determinante de una matriz cuadrada <mark style="background-color: #ffffff">**es un único número** que se asocia a dicha matriz</mark>; es por tanto una **función del conjunto de las matrices cuadradas** en el conjunto numérico al que pertenecen los elementos de las matrices. En nuestro caso estos números serán los reales o los complejos, pero se puede dar sobre conjuntos "numéricos" más generales.
 
   El uso del determinante surgió de las fórmulas que dan las soluciones de sistemas de n ecuaciones con n incógnitas, luego fue identificado (en el caso 3 por 3) como área de paralelogramo o volumen de un paralelepípedo, hasta extenderse a definiciones más generales que la que nosotros daremos en este curso (función multilineal alternada).
 
