@@ -138,17 +138,7 @@ $$
 
 luego si sustituimos en (3.18) se tiene que 
 
-<center>
-|C|
-
-=
-  
-(-1)<sup>1+1</sup>
-</center>
-
-$$
-(-1)^{1+1}  a_{11} [|A_{11}| + |B_11|] 
-$$
+|C| = (-1)<sup>1+1</sup> a<sub>11</sub> [|A<sub>11</sub>| + |B<sub>11</sub>|]
 
 + ... + 
 
