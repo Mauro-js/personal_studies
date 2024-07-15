@@ -139,8 +139,10 @@ $$
 luego si sustituimos en (3.18) se tiene que 
 
 <center>
-|C| 
+|C|
+
 =
+  
 (-1)<sup>1+1</sup>
 </center>
 
