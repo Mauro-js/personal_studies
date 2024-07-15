@@ -136,7 +136,7 @@ b_{i2}          & ... & b_{in}          \cr
 |A_{k1}| + |B_k1|;
 $$
 
-luego si sustituimos en (3.18) se tiene que 
+luego si sustituimos en <code>(3.18)</code> se tiene que 
 
 |C| = (-1)<sup>1+1</sup> a<sub>11</sub> [|A<sub>11</sub>| + |B<sub>11</sub>|] + ... + (-1)<sup>i+1</sup> (a<sub>i1</sub> + b<sub>i1</sub>) |C<sub>i1</sub>| + ... + (-1)<sup>n+1</sup>  a<sub>n1</sub> [|A<sub>n1</sub>| + |B<sub>n1</sub>|] =
 
