@@ -140,10 +140,7 @@ luego si sustituimos en <code>(3.18)</code> se tiene que
 
 |C| = (-1)<sup>1+1</sup> a<sub>11</sub> [|A<sub>11</sub>| + |B<sub>11</sub>|] + ... + (-1)<sup>i+1</sup> (a<sub>i1</sub> + b<sub>i1</sub>) |C<sub>i1</sub>| + ... + (-1)<sup>n+1</sup>  a<sub>n1</sub> [|A<sub>n1</sub>| + |B<sub>n1</sub>|] =
 
-$$
-(-1)^{1+1}  a_{11}  |A_{11}| + ... + (-1)^{i+1}  a_{i1}  |C_{i1}|  + ... + (-1)^{n+1}  a_{n1} |A_{n1}| + (-1)^1+1 a_{11} |B_{11}| + ... + (-1)^{i+1} b_{i1}  |C_{i1}| + ... + (-1)^{n+1}  a_{n1}  |B_{n1}| 
-$$
-
+(-1)<sup>1+1</sup> a<sub>11</sub>  |A<sub>11</sub>| + ... + (-1)<sup>i+1</sup> a<sub>i1</sub> |C<sub>i1</sub>| + ... + (-1)<sup>n+1</sup> a<sub>n1</sub> |A<sup>n1</sup>| + (-1)<sup>1+1</sup> a<sub>11</sub>  |B<sub>11</sub>| + ... + (-1)<sup>i+1</sup> b<sub>i1</sub> |C<sub>i1</sub>| + ... + (-1)<sup>n+1</sup> a<sub>n1</sub> |B<sub>n1</sub>|
 
 Pero como 
 
