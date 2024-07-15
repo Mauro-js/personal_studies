@@ -157,7 +157,11 @@ a_{n2}          & ... & a_{nn}          \cr
 = |A_{i1}| = |B_{i1}|
 $$
 
-resulta que 
+resulta que
+
+|C| = (-1)<sup>1+1</sup> a<sub>11</sub> |A<sub>11</sub>| + ... + (-1)<sup>i+1</sup> a<sub>i1</sub> |A<sub>i1</sub>| + ... + (-1)<sup>n+1</sup> a<sub>n1</sub> |A<sub>n1</sub>| + (-1)<sup>1+1</sup> a<sub>11</sub> |B<sub>11</sub>| + ... + (-1)<sup>i+1</sup>  b<sub>i1</sub> |B<sub>i1</sub>| + ... + (-1)<sup>n+1</sup> a<sub>n1</sub> |B<sub>n1</sub>|
+
+= |A| + |B|
 
 
 
