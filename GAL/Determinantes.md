@@ -133,7 +133,9 @@ b_{i2}          & ... & b_{in}          \cr
 |A_{k1}| + |B_k1|;
 $$
 
+luego si sustituimos en (3.18) se tiene que 
 
+$|C| = (-1)^{1+1} a_{11}$
 
 
 
