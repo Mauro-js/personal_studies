@@ -1,6 +1,6 @@
 #        3. Determinantes
 
-   El determinante de una matriz cuadrada ^^**es un único número** que se asocia a dicha matriz^^; es por tanto una **función del conjunto de las matrices cuadradas** en el conjunto numérico al que pertenecen los elementos de las matrices. En nuestro caso estos números serán los reales o los complejos, pero se puede dar sobre conjuntos "numéricos" más generales.
+   El determinante de una matriz cuadrada <mark>**es un único número** que se asocia a dicha matriz</mark>; es por tanto una **función del conjunto de las matrices cuadradas** en el conjunto numérico al que pertenecen los elementos de las matrices. En nuestro caso estos números <mark>Serán los reales o los complejos</mark>, pero se puede dar sobre conjuntos "numéricos" más generales.
 
   El uso del determinante surgió de las fórmulas que dan las soluciones de sistemas de n ecuaciones con n incógnitas, luego fue identificado (en el caso 3 por 3) como área de paralelogramo o volumen de un paralelepípedo, hasta extenderse a definiciones más generales que la que nosotros daremos en este curso (función multilineal alternada).
 
@@ -99,13 +99,38 @@ En efecto
 
 |C| <sup>def</sup>= (-1)<sup>1+1</sup>*a*<sub>11</sub> |C<sub>11</sub>| + ... + (-1)<sup>*i*+1</sup>(a<sub>*i*1</sub> + b<sub>*i*1</sub>) |C<sub>*i*1</sub>| + ... + (-1)<sup>*n*+1</sup> a<sub>*n*1</sub> |C<sub>*n*1</sub>|
 
-Observemos que si $k\neqi$, como la matriz C<sub>k1</sub> es de orden $n - 1$, por la hipótesis inductiva se tiene que 
+Observemos que si $k\neq i$, como la matriz C<sub>k1</sub> es de orden $n - 1$, por la hipótesis inductiva se tiene que 
 
 $$
 |C_{k1}| = 
 \begin{bmatrix}
-a_{12} & ... &a_{1n} \cr
-b_{21} & b_{22} \cr
+a_{12}          & ... & a_{1n}          \cr
+a_{k-12}        & ... & a_{k-1n}        \cr
+a_{k+12}        & ... & a_{k+1n}        \cr
+   :            & ... &     :           \cr
+a_{i2} + b_{i2} & ... & a_{in} + b_{in} \cr
+   :            & ... &     :           \cr
+
 \end{bmatrix}
 \=
 $$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
