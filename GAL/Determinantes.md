@@ -101,6 +101,7 @@ En efecto
 
 Observemos que si $k\neq i$, como la matriz C<sub>k1</sub> es de orden $n - 1$, por la hipótesis inductiva se tiene que 
 
+<code>
 $$
 |C_{k1}| = 
 \begin{bmatrix}
@@ -111,7 +112,9 @@ a_{k+12}        & ... & a_{k+1n}        \cr
 a_{i2} + b_{i2} & ... & a_{in} + b_{in} \cr
    :            & ... &     :           \cr
 \end{bmatrix}
+\=
 $$
+</code>
 
 
 
