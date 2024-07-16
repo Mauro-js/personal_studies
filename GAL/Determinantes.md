@@ -26,6 +26,8 @@ El determinante de una matriz A *n* X *n* se define como el número
    
 https://github.com/user-attachments/assets/dfdc7e26-a71b-4549-b7c6-f03727addb36
 
+[Video Original](https://open.fing.edu.uy/courses/gal119/1/)
+
 </details>
 
 ## 3.2 Propiedades de los determinantes
