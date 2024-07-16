@@ -32,7 +32,11 @@ https://github.com/user-attachments/assets/dfdc7e26-a71b-4549-b7c6-f03727addb36
 <details>
    <summary> Video Introducción Determinante Teórico 2013 </summary>
 
-https://github.com/user-attachments/assets/fd9d16ed-2e0f-47da-aa67-215261ebeac8
+
+
+https://github.com/user-attachments/assets/a28239c4-cac6-4093-bfa3-cd72f0b86c82
+
+
 
 [Video Original](https://open.fing.edu.uy/courses/gal1/9/)
    
