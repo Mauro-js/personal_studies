@@ -174,13 +174,22 @@ Si B es una matriz que se obtiene de A multiplicando una de sus filas por un nú
 $$
 |B| =
 \begin{bmatrix}
-a_{11}        &  a_{12}         & ... & a_{1n}          \cr
-   :          &    :            & ... &     :           \cr
-\alpha a_{i1} &  \alpha a_{i2}  & ... & a_{i-1n}        \cr
-   :          &    :            & ... &     :           \cr
-a_{n1}        &  a_{n2}         & ... & a_{nn}          \cr
+a_{11}        &  a_{12}         & ... & a_{1n}             \cr
+   :          &    :            & ... &     :              \cr
+\alpha a_{i1} &  \alpha a_{i2}  & ... &  \alpha a_{i-1n}   \cr
+   :          &    :            & ... &     :              \cr
+a_{n1}        &  a_{n2}         & ... & a_{nn}             \cr
 \end{bmatrix}
-= |A_{i1}| = |B_{i1}|
+\= 
+\alpha
+\begin{bmatrix}
+a_{11}        &  a_{12}         & ... & a_{1n}             \cr
+   :          &    :            & ... &     :              \cr
+a_{i1}        &  a_{i2}         & ... & a_{i-1n}           \cr
+   :          &    :            & ... &     :              \cr
+a_{n1}        &  a_{n2}         & ... & a_{nn}             \cr
+\end{bmatrix}
+
 $$
 
 
