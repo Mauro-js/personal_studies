@@ -22,7 +22,7 @@ El determinante de una matriz A *n* X *n* se define como el número
 
 |A|<sup>def</sup>= (-1)<sup>1+1</sup> a<sub>11</sub> |A<sub>11</sub>| + ... + (-1)<sup>*i*+1</sup> a<sub>*i*1</sub> |A*i*1| + ... + (-1)<sup>*n*+1</sup> a<sub>*n*1</sub> |A*n*1|
 
-[![Definicion determinantes](https://res.cloudinary.com/marcomontalbano/image/upload/v1671144387/video_to_markdown/images/youtube--FEa2diI2qgA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://open.fing.edu.uy/courses/gal119/10/?t=8,238 "Definicion Determinantes")
+<iframe width="320" height="180" src="https://www.youtube-nocookie.com/embed/FEa2diI2qgA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1"></iframe>
 
 
 ## 3.2 Propiedades de los determinantes
