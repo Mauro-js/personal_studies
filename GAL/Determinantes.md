@@ -4,7 +4,7 @@
 
   El uso del determinante surgió de las fórmulas que dan las soluciones de sistemas de n ecuaciones con n incógnitas, luego fue identificado (en el caso 3 por 3) como área de paralelogramo o volumen de un paralelepípedo, hasta extenderse a definiciones más generales que la que nosotros daremos en este curso (función multilineal alternada).
 
-  Más adelante se verá que podemos hablar del determinante de una tranformación lineal entre espacios vectoriales, a la que se puede asociar matrices de una manera sencilla. En particular las matrices invertibles son las únicas que tienen determinantes distintos de cero. Así, una propiedad tan definitoria de una matriz (su invertibilidad) estará caracterizada por la no nulidad de su determinante (o sea por el valor de un único número).
+  Más adelante se verá que podemos hablar del determinante de una tranformación lineal entre espacios vectoriales, a la que se puede asociar matrices de una manera sencilla. <mark>**En particular las matrices invertibles son las únicas que tienen determinantes distintos de cero**</mark>. Así, una propiedad tan definitoria de una matriz (su invertibilidad) estará caracterizada por la no nulidad de su determinante (o sea por el valor de un único número).
 
 
 ## 3.1 Definición
@@ -13,9 +13,9 @@
 
 **DEFINICIÓN** <code>3.1</code> Sea A = ((a<sub>ij</sub>)) una matriz *n x n*, se definie la **matriz adjunta del elemento** a<sub>ij</sub> como la submatriz A<sub>ij</sub> de la matriz A que se obtiene eliminando la fila *i* y la columna *j* de A
 
-**OBSERVACIÓN** <code>3.1</code>. Si la matriz cuadrada A es de tamaño *n*, las matrices adjuntas A<sub>ij</sub> son de tamaño (*n*-1)X(*n*-1).
+**OBSERVACIÓN** <code>3.1</code>. Si la matriz cuadrada A es de tamaño *n*, las matrices adjuntas A<sub>ij</sub> son de tamaño (*n*-1) x (*n*-1).
 
-**DEFINICIÓN** <code>3.2</code> **(Inductiva en el tamaño de la matriz)** El determinante de una mantriz 1 X 1 es el propio número. El determinante de la matriz 2 X 2,  A = (a b, c d) es el número |A|<sup>def</sup>= ad - bc
+**DEFINICIÓN** <code>3.2</code> **(Inductiva en el tamaño de la matriz)** El determinante de una mantriz 1 X 1 <mark>es el propio número</mark>. El determinante de la matriz 2 X 2,  A = (a b, c d) es el número |A|<sup>def</sup>= ad - bc
 
 El determinante de una matriz A *n* X *n* se define como el número
 
