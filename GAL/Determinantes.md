@@ -23,7 +23,7 @@ El determinante de una matriz A *n* X *n* se define como el número
 |A|<sup>def</sup>= (-1)<sup>1+1</sup> a<sub>11</sub> |A<sub>11</sub>| + ... + (-1)<sup>*i*+1</sup> a<sub>*i*1</sub> |A*i*1| + ... + (-1)<sup>*n*+1</sup> a<sub>*n*1</sub> |A*n*1|
 
 <details>
-  <summary><b>Material Extra Videos</b></summary>
+  <summary><b><mark>Material extra en videos</mark></b></summary>
   <details>
   <summary> Video Definición Determinante Teórico 2019 </summary>
    
