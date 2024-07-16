@@ -24,6 +24,9 @@ El determinante de una matriz A *n* X *n* se define como el número
 
 <details>
   <summary><b><mark>Material extra en videos</mark></b></summary>
+
+##Videos de la definicion de Determinante
+
   <details>
   <summary> Video Definición Determinante Teórico 2019 </summary>
    
