@@ -29,7 +29,14 @@ https://github.com/user-attachments/assets/dfdc7e26-a71b-4549-b7c6-f03727addb36
 [Video Original](https://open.fing.edu.uy/courses/gal119/1/)
 
 </details>
+<details>
+   <sumary> Video Introducción Determinante Teórico 2013 </sumary>
 
+https://github.com/user-attachments/assets/fd9d16ed-2e0f-47da-aa67-215261ebeac8
+
+[Video Original](https://open.fing.edu.uy/courses/gal1/9/)
+   
+</details>
 ## 3.2 Propiedades de los determinantes
 
 ### Linealidad (respecto a una fila)
