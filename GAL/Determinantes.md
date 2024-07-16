@@ -164,6 +164,30 @@ resulta que
 = |A| + |B|
 
 
+**OBSERVACIÓN** <code>3.2</code> No es cierto que |A + B| = |A| + |B|
+
+
+#### b) Homogeneidad (respecto a una fila)
+
+Si B es una matriz que se obtiene de A multiplicando una de sus filas por un número $\alpha$ entonces
+
+$$
+|B| =
+\begin{bmatrix}
+a_{11}        &  a_{12}         & ... & a_{1n}          \cr
+   :          &    :            & ... &     :           \cr
+\alpha a_{i1} &  \alpha a_{i2}  & ... & a_{i-1n}        \cr
+   :          &    :            & ... &     :           \cr
+a_{n1}        &  a_{n2}         & ... & a_{nn}          \cr
+\end{bmatrix}
+= |A_{i1}| = |B_{i1}|
+$$
+
+
+
+
+
+
 
 
 
