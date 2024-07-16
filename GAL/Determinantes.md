@@ -24,6 +24,10 @@ El determinante de una matriz A *n* X *n* se define como el número
 
 
 
+https://github.com/user-attachments/assets/da52a1df-13dc-4fc7-885a-3ee02be6fb0d
+
+
+
 ## 3.2 Propiedades de los determinantes
 
 ### Linealidad (respecto a una fila)
