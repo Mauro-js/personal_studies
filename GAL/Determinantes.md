@@ -189,6 +189,8 @@ a_{i1}        &  a_{i2}         & ... & a_{i-1n}           \cr
    :          &    :            & ... &     :              \cr
 a_{n1}        &  a_{n2}         & ... & a_{nn}             \cr
 \end{bmatrix}
+\=
+\alpha |A|
 $$
 
 
