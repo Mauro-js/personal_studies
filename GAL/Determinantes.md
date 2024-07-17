@@ -248,7 +248,7 @@ Tesis inductiva: La propiedad es válida para matrices de orden n.
 
 En efecto
 
-<code>(3.19)</code> |B|<sup>def</sup>= (-1)<sup>1+1</sup> |B<sub>11</sub>| + ... + (-1)<sup>*i*+1</sup> $ \alpha $ a<sub>*i*1</sub> |B<sub>*i*1</sub>| + ... + (-1)<sup>n+1</sup> a<sub>n1</sub> |B<sub>n1</sub>|
+<code>(3.19)</code> |B|<sup>def</sup>= (-1)<sup>1+1</sup> |B<sub>11</sub>| + ... + (-1)<sup>*i*+1</sup> $\alpha$ a<sub>*i*1</sub> |B<sub>*i*1</sub>| + ... + (-1)<sup>n+1</sup> a<sub>n1</sub> |B<sub>n1</sub>|
 
 Observemos que si $ k \neq i $, como la matriz C<sub>k1</sub> es de orden n - 1, por la hipótesis inductiva se tiene que 
 
