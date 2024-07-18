@@ -67,8 +67,9 @@ El determinante de una matriz A *n* X *n* se define como el número
 ## 3.2 Propiedades de los determinantes
 
 <details>
-  <summary>
 ### a) Aditividad (respectoo a una fila)
+  <summary>
+    DEMOSTRACIÓN
   </summary>
 $$
 C=
