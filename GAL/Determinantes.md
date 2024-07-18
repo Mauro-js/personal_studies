@@ -304,8 +304,41 @@ luego si sustituimos en <code>(3.19)</code> se tiene que
 = $\alpha$ [(-1)<sup>1+1</sup>a<sub>11</sub> |A<sub>11</sub>| + ... + (-1)<sup>i+1</sup> a<sub>i1</sub> |A<sub>i1</sub>| + ... + (-1)<sup>n+1</sup> a<sub>n1</sub> |A<sub>n1</sub>|] = $\alpha$ |A|
 
 
-**COROLARIO** <code>3.3</code>. Se deduce de la prodiedad anterior que | $\alpha$ A| = $\alpha$ <sup>n</sup> |A|.
+**COROLARIO** <code>3.3</code>. Se deduce de la prodiedad anterior que |$\alpha$ A| = $\alpha$ <sup>n</sup> |A|.
 
+**DEMOSTRACIÓN** En efecto
+
+$$
+|\alpha A| =
+\begin{bmatrix}
+\alpha a_{11} & \alpha a_{12} & ... & \alpha a_{1n} \cr
+\alpha a_{21} & \alpha a_{22} & ... & \alpha a_{2n} \cr
+   :          &     :         & ... &    :          \cr
+\alpha a_{n1} & \alpha a_{n2} & ... & \alpha a_{nn} \cr
+\end{bmatrix}
+\= \alpha
+\begin{bmatrix}
+       a_{11} &        a_{12} & ... &        a_{1n} \cr
+\alpha a_{21} & \alpha a_{22} & ... & \alpha a_{2n} \cr
+   :          &     :         & ... &     :         \cr
+\alpha a_{n1} & \alpha a_{n2} & ... & \alpha a_{nn} \cr
+\end{bmatrix}
+\= \alpha \alpha
+\begin{bmatrix}
+       a_{11} &        a_{12} & ... &        a_{1n} \cr
+       a_{21} &        a_{22} & ... &        a_{2n} \cr
+   :          &     :         & ... &     :         \cr
+\alpha a_{n1} & \alpha a_{n2} & ... & \alpha a_{nn} \cr
+\end{bmatrix}
+\= \alpha \alpha ... \alpha
+\begin{bmatrix}
+       a_{11} &        a_{12} & ... &        a_{1n} \cr
+       a_{21} &        a_{22} & ... &        a_{2n} \cr
+   :          &     :         & ... &     :         \cr
+       a_{n1} &        a_{n2} & ... &        a_{nn} \cr
+\end{bmatrix}
+\= \alpha ^{n} |A|
+$$
 
 
 
