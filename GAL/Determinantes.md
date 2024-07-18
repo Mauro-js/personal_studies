@@ -294,7 +294,7 @@ a_{i-12}       & ... &   a_{i-1n} \cr
 a_{i+12}       & ... &   a_{i+12} \cr
    :           & ... &     :      \cr
 a_{n2}         & ... &   a_{nn}   \cr
-\end{bmatrx}
+\end{bmatrix}
 \= |A_{i1}|
 $$
 
