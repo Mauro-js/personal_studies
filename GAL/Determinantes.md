@@ -34,7 +34,7 @@ El determinante de una matriz A *n* X *n* se define como el número
 > <details>
 >   <summary><b>Material extra en videos</b></summary>
 >
->
+> <br />
 > <details>
 >    <summary> Video Introducción Determinante Teórico 2013 </summary>
 > 
@@ -66,11 +66,8 @@ El determinante de una matriz A *n* X *n* se define como el número
 
 ## 3.2 Propiedades de los determinantes
 
-<details>
 ### a) Aditividad (respectoo a una fila)
-  <summary>
-    DEMOSTRACIÓN
-  </summary>
+
 $$
 C=
 \begin{bmatrix}
@@ -205,10 +202,7 @@ resulta que
 
 = |A| + |B|
 
-
 **OBSERVACIÓN** <code>3.2</code> No es cierto que |A + B| = |A| + |B|
-
-</details>
 
 ### b) Homogeneidad (respecto a una fila)
 
