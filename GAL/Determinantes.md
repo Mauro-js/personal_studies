@@ -22,37 +22,36 @@ El determinante de una matriz A *n* X *n* se define como el número
 
 |A|<sup>def</sup>= (-1)<sup>1+1</sup> a<sub>11</sub> |A<sub>11</sub>| + ... + (-1)<sup>*i*+1</sup> a<sub>*i*1</sub> |A*i*1| + ... + (-1)<sup>*n*+1</sup> a<sub>*n*1</sub> |A*n*1|
 
-<details>
-  <summary><b><mark>Material extra en videos</mark></b></summary>
-
-  ### Videos de la definicion de Determinante
-
-<details>
-   <summary> Video Introducción Determinante Teórico 2013 </summary>
-
-
-https://github.com/user-attachments/assets/a28239c4-cac6-4093-bfa3-cd72f0b86c82
-
-
-[Video Original](https://open.fing.edu.uy/courses/gal1/9/)
-   
-</details>
-
-  <details>
-  <summary> Video Definición Determinante Teórico 2019 </summary>
-   
-https://github.com/user-attachments/assets/dfdc7e26-a71b-4549-b7c6-f03727addb36
-
-[Video Original](https://open.fing.edu.uy/courses/gal119/1/)
-
-</details>
-</details>
+> [!IMPORTANT]
+> <details>
+>   <summary><b><mark>Material extra en videos</mark></b></summary>
+> 
+>   ### Videos de la definicion de Determinante
+> 
+> <details>
+>    <summary> Video Introducción Determinante Teórico 2013 </summary>
+> 
+> 
+> https://github.com/user-attachments/assets/a28239c4-cac6-4093-bfa3-cd72f0b86c82
+> 
+> 
+> [Video Original](https://open.fing.edu.uy/courses/gal1/9/)
+>    
+> </details>
+> 
+>   <details>
+>   <summary> Video Definición Determinante Teórico 2019 </summary>
+>    
+> https://github.com/user-attachments/assets/dfdc7e26-a71b-4549-b7c6-f03727addb36
+> 
+> [Video Original](https://open.fing.edu.uy/courses/gal119/1/)
+> 
+> </details>
+> </details>
 
 ## 3.2 Propiedades de los determinantes
 
-### Linealidad (respecto a una fila)
-
-#### a) Aditividad (respectoo a una fila)
+### a) Aditividad (respectoo a una fila)
 
 $$
 C=
@@ -192,7 +191,7 @@ resulta que
 **OBSERVACIÓN** <code>3.2</code> No es cierto que |A + B| = |A| + |B|
 
 
-#### b) Homogeneidad (respecto a una fila)
+### b) Homogeneidad (respecto a una fila)
 
 Si B es una matriz que se obtiene de A multiplicando una de sus filas por un número $\alpha$ entonces
 
