@@ -46,10 +46,17 @@ El determinante de una matriz A *n* X *n* se define como el número
 >    
 > </details>
 > 
->   <details>
+> <details>
 >   <summary> Video Definición Determinante Teórico 2019 </summary>
 >    
 > https://github.com/user-attachments/assets/dfdc7e26-a71b-4549-b7c6-f03727addb36
+> 
+> [Video Original](https://open.fing.edu.uy/courses/gal119/1/)
+> 
+> </details>
+> <details>
+>   <summary> Video Definición Determinante Teórico 2021 </summary>
+> https://github.com/user-attachments/assets/7dcaca43-95a7-4d10-8030-98f8457978ca    
 > 
 > [Video Original](https://open.fing.edu.uy/courses/gal119/1/)
 > 
