@@ -46,6 +46,15 @@ https://github.com/user-attachments/assets/dfdc7e26-a71b-4549-b7c6-f03727addb36
 [Video Original](https://open.fing.edu.uy/courses/gal119/1/)
 
 </details>
+ <details>
+  <summary> Video Definición Determinante Teórico 2021 </summary>
+
+https://github.com/user-attachments/assets/94ba5395-2b76-481c-9cb8-85b8065444a9
+
+[Video Original]([https://open.fing.edu.uy/courses/gal119/1/](https://open.fing.edu.uy/courses/gal121/9/))
+
+</details>
+
 </details>
 
 ## 3.2 Propiedades de los determinantes
@@ -61,6 +70,9 @@ a_{11} & a_{12} & ... & a_{1n} \cr
 : & : & ... & :  \cr
 a_{i1} + b_{i1} & a_{i2} + b_{i2} & ... & a_{in} + b_{in}  \cr
 : & : & ... & :  \cr
+
+
+
 a_{n1} & a_{n2} & ... & a_{nn} 
 \end{bmatrix}
 \=
