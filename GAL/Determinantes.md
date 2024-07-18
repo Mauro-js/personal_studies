@@ -281,9 +281,25 @@ a_{n2}          & ... &   a_{nn}         \cr
 |A_{k1}|
 $$
 
+y que 
 
+$$
+|B_{i1}| =
+\begin{bmatrix}
+a_{12}         & ... &   a_{1n}   \cr 
+   :           & ... &     :      \cr
+a_{i-12}       & ... &   a_{i-1n} \cr
+a_{i+12}       & ... &   a_{i+12} \cr
+   :           & ... &     :      \cr
+a_{n2}         & ... &   a_{nn}   \cr
+\end{bmatrx}
+\= |A_{i1}|
+$$
 
+luego si sustituimos en <code>(3.19)</code> se tiene que
 
+|B| = (-1)<sup>1+1</sup>  a<sub>11</sub> $\alpha$ |A<sub>11</sub>| + ... + (-1)<sup>i+1</sup> $\alpha$ a<sub>i1</sub> |A<sub>i1</sub>| + ... + (-1)<sup>n+1</sup> a<sub>n1</sub> $\alpha$ |A<sub>n1</sub>|
+= $\alpha$ [(-1)<sup>1+1</sup>a<sub>11</sub> |A<sub>11</sub>| + ... + (-1)<sup>i+1</sup> a<sub>i1</sub> |A<sub>i1</sub>| + ... + (-1)<sup>n+1</sup> a<sub>n1</sub> |A<sub>n1</sub>|] = $\alpha$ |A|
 
 
 
