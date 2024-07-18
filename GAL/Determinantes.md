@@ -56,6 +56,7 @@ El determinante de una matriz A *n* X *n* se define como el número
 > </details>
 > <details>
 >   <summary> Video Definición Determinante Teórico 2021 </summary>
+>
 > https://github.com/user-attachments/assets/7dcaca43-95a7-4d10-8030-98f8457978ca    
 > 
 > [Video Original](https://open.fing.edu.uy/courses/gal119/1/)
