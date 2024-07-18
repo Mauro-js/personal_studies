@@ -8,8 +8,9 @@
 
 
 ## 3.1 Definición
-
-  La definición de determinante de una matriz cuadrada será dada de manera inductiva en el número de filas (o de columnas). O sea, daremos la definición de determinate de una matriz n x n a partir del conocimiento de los determinantes de matrices (n - 1) x (n - 1). El determinante de una matriz A se representa con el símbolo |A|; tratándose de una matriz dada por sus coeficientes, en general no escribiremos los paréntesis con los que en general encerramos el "cuadrado" de los números.
+<details>
+  <summary> Definición </summary>
+La definición de determinante de una matriz cuadrada será dada de manera inductiva en el número de filas (o de columnas). O sea, daremos la definición de determinate de una matriz n x n a partir del conocimiento de los determinantes de matrices (n - 1) x (n - 1). El determinante de una matriz A se representa con el símbolo |A|; tratándose de una matriz dada por sus coeficientes, en general no escribiremos los paréntesis con los que en general encerramos el "cuadrado" de los números.
 
 **DEFINICIÓN** <code>3.1</code> Sea A = ((a<sub>ij</sub>)) una matriz *n x n*, se definie la **matriz adjunta del elemento** a<sub>ij</sub> como la submatriz A<sub>ij</sub> de la matriz A que se obtiene eliminando la fila *i* y la columna *j* de A
 
@@ -21,10 +22,12 @@ El determinante de una matriz A *n* X *n* se define como el número
 
 
 |A|<sup>def</sup>= (-1)<sup>1+1</sup> a<sub>11</sub> |A<sub>11</sub>| + ... + (-1)<sup>*i*+1</sup> a<sub>*i*1</sub> |A*i*1| + ... + (-1)<sup>*n*+1</sup> a<sub>*n*1</sub> |A*n*1|
+</details>
+
 
 > [!IMPORTANT]
 > <details>
->   <summary><b><mark>Material extra en videos</mark></b></summary>
+>   <summary><b>Material extra en videos</b></summary>
 > 
 >   ### Videos de la definicion de Determinante
 > 
