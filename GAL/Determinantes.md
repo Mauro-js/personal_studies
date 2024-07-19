@@ -66,7 +66,9 @@ El determinante de una matriz A *n* X *n* se define como el número
 
 ## 3.2 Propiedades de los determinantes
 
-### a) Aditividad (respectoo a una fila)
+### Linealidad (respecto a una fila)
+
+#### a) Aditividad (respectoo a una fila)
 
 $$
 C=
@@ -204,7 +206,7 @@ resulta que
 
 **OBSERVACIÓN** <code>3.2</code> No es cierto que |A + B| = |A| + |B|
 
-### b) Homogeneidad (respecto a una fila)
+#### b) Homogeneidad (respecto a una fila)
 
 Si B es una matriz que se obtiene de A multiplicando una de sus filas por un número $\alpha$ entonces
 
@@ -351,6 +353,41 @@ $$
 \end{bmatrix}
 \= \alpha ^{n} |A|
 $$
+
+
+### 2. Intercambio de filas
+
+Si B es la matriz que se obtiene de A intercambiando dos de sus filas entonces
+
+$$
+|B| =
+\begin{bmatrix}
+a_{11} & a_{12} & ... & a_{1n} \cr
+:      & :      & ... & :      \cr
+a_{j1} & a_{j2} & ... & a_{jn} \cr
+:      & :      & ... & :      \cr
+a_{i1} & a_{i2} & ... & a_{in} \cr
+:      & :      & ... & :      \cr
+a_{n1} & a_{n2} & ... & a_{nn} \cr
+\end{bmatrix}
+\-
+\begin{bmatrix}
+a_{11} & a_{12} & ... & a_{1n} \cr
+:      & :      & ... & :      \cr
+a_{i1} & a_{i2} & ... & a_{in} \cr
+:      & :      & ... & :      \cr
+a_{i1} & a_{i2} & ... & a_{in} \cr
+:      & :      & ... & :      \cr
+a_{n1} & a_{n2} & ... & a_{nn} \cr
+\end{bmatrix}
+$$
+
+
+
+
+
+
+
 
 
 
