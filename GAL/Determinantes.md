@@ -444,7 +444,45 @@ Por la definición, se tiene que
 
 <code>(3.20)</code> |B| = (-1)<sup>1+1</sup> a<sub>11</sub> |B<sub>11</sub>| + ... + (-1)<sup>i+1</sup> a<sub>i+11</sub> |B<sub>i1</sub>| + (-1)<sup>i+2</sup> a<sub>i1</sub> |B<sub>i+1</sub>| + (-1)<sup>i+2</sup> a<sub>i1</sub> |B<sub>i+11</sub>| + ... + (-1)<sup>n+1</sup> a<sub>n1</sub> |B<sub>n1</sub>|
 
-se tiene que 
+
+Pero siendo
+
+$$
+B =
+\begin{bmatrix}
+a_{11}    & a_{12}   & ... & a_{1n}   \cr
+:         & :        & ... & :        \cr
+a_{i+11}  & a_{i+12} & ... & a_{i+1n} \cr
+a_{i1}    & a_{i2}   & ... & a_{in}   \cr
+:         & :        & ... & :        \cr
+a_{n1}    & a_{n2}   & ... & a_{nn}   \cr
+\end{bmatrix}
+\begin{bmatrix}
+:              \cr
+:              \cr
+<-- Fila i     \cr
+<-- Fila i + i \cr
+:
+:
+\end{bmatrix}
+$$
+
+
+se tiene que B<sub>i1</sub> = A<sub>i+11</sub> y B<sub>i+11</sub> = A<sub>i1</sub>, por lo cual
+
+|B<sub>i1</sub>| = |A<sub>i+11</sub>|,  |B<sub>i+11</sub>| = |A<sub>i1</sub>|
+
+
+y si $k \neq i + 1$, se tiene que B<sub>k1</sub> es una matriz de orden n - 1 con dos filas inetercambiadas respecto de A, por la cual, por la hipótesis inductiva |B<sub>k1</sub>| = -|A<sub>k1</sub>|. Sustituimos en <code>(3.20)</code>
+
+
+|B| = (-1)<sup>1+1</sup> a<sub>11</sub> [-|A<sub>11</sub>|] + ... + (-1)<sup>i+1</sup> a<sub>i+11</sub> |A<sub>i+11</sub>| + (-1)<sup>i+2</sup> a<sub>i1</sub> |A<sub>i1</sub>| + ... + (-1)<sup>n+1</sup> a<sub>n1</sub> [-|A<sub>n1</sub>|]
+
+Pero
+
+
+(-1)<sup>i+1</sup> a<sub>i+11</sub> |A <sub>i+11</sub>| 
+= (-1)<sup>i+1</sup> (-1)<sup>2</sup> a<sub>i+11</sub> |A<sub>i+11</sub>| = (-1)<sup>i+1</sup> (-1)
 
 
 
