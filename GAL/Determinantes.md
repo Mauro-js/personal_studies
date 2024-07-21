@@ -502,6 +502,85 @@ con lo cual
 Segundo caso La matriz B se ha obtenido de A intercambiando las filas i y j = k + 1. La matriz B se puede obtener de A realizando varios cambios de filas consecutivas. En primer lugar realizamos k cambios consecutivos de la fila i de A hasta colocarla en fila j = i + k.
 
 
+$$
+A =
+\begin{bmatrix}
+a_{11}        & a_{12}     & ... & a_{in}    \cr
+:             & :          & ... & :         \cr
+a_{i1}        & a_{i2}     & ... & a_{in}    \cr
+a_{i+11}      & a_{i+12}   & ... & a_{i+1n}  \cr
+a_{i+21}      & a_{i+22}   & ... & a_{i+2n}  \cr
+:             & :          & ... & :         \cr
+a_{k+11}      & a_{k+12}   & ... & a_{k+1n}  \cr
+:             & :          & ... & :         \cr
+a_{n1}        & a_{n2}     & ... & a_{nn}    \cr
+\end{bmatrix}
+\begin{bmatrix}
+:                         \cr
+:                         \cr
+<-- fila ... "i de A"     \cr 
+<-- fila ... "i + 1 de A" \cr
+<-- fila ... "i + 2 de A" \cr
+:                         \cr
+<-- fila ... "i + k de A" \cr
+:                         \cr
+:                         \cr
+\end{bmatrix}
+$$
+
+cambi de la fila i poor la i + 1 de A
+
+-->
+
+$$
+A_{1} =
+\begin{bmatrix}
+a_{11}            & a_{11}         &    ...     & a_{1n}        \cr
+:                 & :              &    ...     & :             \cr
+a_{i+11}          & a_{i+12}       &    ...     & a_{i+1n}      \cr
+a_{i1}            & a_{i2}         &    ...     & a_{in}        \cr  
+a_{i+21}          & a_{i+22}       &    ...     & a_{i+2n}      \cr
+:                 & :              &    ...     & :             \cr
+a_{j1}            & a_{j2}         &    ...     & a_{jn}        \cr
+:                 & :              &    ...     & :             \cr
+a_{n1}            & a_{n2}         &    ...     & a_{nn}        \cr
+\end{bmatrix}
+\begin{bmatrix}
+:                         \cr 
+:                         \cr 
+<-- fila "i de A_{1}"     \cr
+<-- fila "i + 1 de A_{1}" \cr
+<-- fila "i + 2 de A_{1}" \cr
+:                         \cr
+<-- fila "i + k de A_{1}" \cr
+:
+:
+\end{bmatrix}
+$$
+
+cambio de la fila i + 1 por la i + 2 de A<sub>1</sub>
+
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
