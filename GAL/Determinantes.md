@@ -458,12 +458,12 @@ a_{i1}    & a_{i2}   & ... & a_{in}   \cr
 a_{n1}    & a_{n2}   & ... & a_{nn}   \cr
 \end{bmatrix}
 \begin{bmatrix}
-:                \cr
-:                \cr
-<-- Fila_{ i }     \cr
-<-- Fila_{ i + 1 } \cr
-:                \cr
-:                \cr
+:                  \cr
+:                  \cr
+<-- Fila \_ i      \cr
+<-- Fila \_ i + 1  \cr
+:                  \cr
+:                  \cr
 \end{bmatrix}
 $$
 
