@@ -417,7 +417,7 @@ Hipótesis inductiva: La propiedad es válida para matrices de orden menor que n
 
 Tesis inductiva: La propiedad es válida para matrices de orden n
 
-Primer caso: La matriz B se ha obtenido de A intercambio las filas consecutivas i e e + 1
+Primer caso: La matriz B se ha obtenido de A intercambio las filas consecutivas i e i + 1
 
 $$
 A =
@@ -429,7 +429,6 @@ a_{i+11}  & a_{i+12} & ... & a_{i+1n} \cr
 :         & :        & ... & :        \cr
 a_{n1}    & a_{n2}   & ... & a_{nn}   \cr
 \end{bmatrix}
-
 y     B =
 \begin{bmatrix}
 a_{11}    & a_{12}   & ... & a_{1n}   \cr
