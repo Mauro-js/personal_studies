@@ -562,8 +562,33 @@ cambio de la fila i + 1 por la i + 2 de A<sub>1</sub>
 
 -->
 
+$$
+\begin{bmatrix}
+a_{11}            & a_{12}         &    ...    & a_{1n}    \cr
+:                 & :              &    ...    & :         \cr
+a_{i+11}          & a_{i+12}       &    ...    & a_{i+1n}  \cr
+a_{i+21}          & a_{i+22}       &    ...    & a_{i+2n}  \cr
+a_{i1}            & a_{i2}         &    ...    & a_{in}    \cr
+:                 & :              &    ...    & :         \cr
+a_{j1}            & a_{j2}         &    ...    & a_{jn}    \cr
+:                 & :              &    ...    & :         \cr
+a_{n1}            & a_{n2}         &    ...    & a_{nn}    \cr
+\end{bmatrix}
+\begin{bmartix}
+:                         \cr
+:                         \cr
+<--   "fila i de A_2"     \cr
+<--   "fila i + 1 de A_2" \cr
+<--   "fila i + 2 de A_2" \cr
+:                         \cr
+<--   "fila i + k de A_2" \cr
+:                         \cr
+:                         \cr
+\end{bmatrix}
+$$
 
 
+--> ... --> ... -->
 
 
 
