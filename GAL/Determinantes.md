@@ -380,12 +380,72 @@ a_{i1} & a_{i2} & ... & a_{in} \cr
 :      & :      & ... & :      \cr
 a_{n1} & a_{n2} & ... & a_{nn} \cr
 \end{bmatrix}
+\=
+\- |A|
 $$
 
+**DEMOSTRACIÓN**. Por inducción completa
 
+Para n = 2. Por un lado
 
+$$
+|B|
+\=
+\begin{bmatrix}
+a_{11} & a_{22} \cr
+a_{21} & a_{12} \cr
+\end{bmatrix}
+\=
+a_{12} a_{21} - a_{11}a_{22}
+$$
 
+y por otro
 
+$$
+|A| =
+\begin{bmatrix}
+a_{11} & a_{12} \cr
+a_{21} & a_{22} \cr
+\end{bmatrix}
+\=
+(a_{11}a_{22} - a_{12}a_{21}).
+$$
+
+Así |B| = -|A|.
+
+Hipótesis inductiva: La propiedad es válida para matrices de orden menor que n
+
+Tesis inductiva: La propiedad es válida para matrices de orden n
+
+Primer caso: La matriz B se ha obtenido de A intercambio las filas consecutivas i e e + 1
+
+$$
+A =
+\begin{bmatrix}
+a_{11}    & a_{12}   & ... & a_{1n}   \cr
+:         & :        & ... & :        \cr
+a_{i1}    & a_{i2}   & ... & a_{in}   \cr
+a_{i+11}  & a_{i+12} & ... & a_{i+1n} \cr
+:         & :        & ... & :        \cr
+a_{n1}    & a_{n2}   & ... & a_{nn}   \cr
+\end{bmatrix}
+
+y     B =
+\begin{bmatrix}
+a_{11}    & a_{12}   & ... & a_{1n}   \cr
+:         & :        & ... & :        \cr
+a_{i+11}  & a_{i+12} & ... & a_{i+1n} \cr
+a_{i1}    & a_{i2}   & ... & a_{in}   \cr
+:         & :        & ... & :        \cr
+a_{n1}    & a_{n2}   & ... & a_{nn}   \cr
+\end{bmatrix}
+$$
+
+Por la definición, se tiene que 
+
+<code>(3.20)</code> |B| = (-1)<sup>1+1</sup> a<sub>11</sub> |B<sub>11</sub>| + ... + (-1)<sup>i+1</sup> a<sub>i+11</sub> |B<sub>i1</sub>| + (-1)<sup>i+2</sup> a<sub>i1</sub> |B<sub>i+1</sub>| + (-1)<sup>i+2</sup> a<sub>i1</sub> |B<sub>i+11</sub>| + ... + (-1)<sup>n+1</sup> a<sub>n1</sub> |B<sub>n1</sub>|
+
+se tiene que 
 
 
 
