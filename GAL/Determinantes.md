@@ -482,7 +482,26 @@ Pero
 
 
 (-1)<sup>i+1</sup> a<sub>i+11</sub> |A <sub>i+11</sub>| 
-= (-1)<sup>i+1</sup> (-1)<sup>2</sup> a<sub>i+11</sub> |A<sub>i+11</sub>| = (-1)<sup>i+1</sup> (-1)
+
+= (-1)<sup>i+1</sup> (-1)<sup>2</sup> a<sub>i+11</sub> |A<sub>i+11</sub>| 
+
+= (-1)<sup>i+1</sup> (-1)<sub>ai+11</sub> (-1) |A<sub>i+11</sub>| 
+
+= (-1)<sup>i+2</sup> a<sub>i+11</sub> [-|A<sub>i+11</sub>|] 
+
+= (-1)<sup>i+1</sup> (-1)a<sub>i1</sub> |A<sub>i1</sub>|
+
+= (-1)<sup>i+1</sup> a<sub>i1</sub> [- |A<sub>i1</sub>|]
+
+con lo cual
+
+|B| = (-1)<sup>1+1</sup> a<sub>11</sub> [- |A<sub>11</sub>|] + ... + (-1)<sup>i+2</sup> a<sub>i+11</sub> [-|A<sub>i+11</sub>|] + (-1)<sup>i+1</sup> a<sub>i1</sub> [-|A<sub>i1</sub>|] + ... + (-1)<sup>n+1</sup> a<sub>n1</sub> [-|A<sub>n1</sub>|]
+
+= -[(-1)<sup>1+1</sup> a<sub>11</sub> |A<sub>11</sub>| + ... + (-1)<sup>i+2</sup> a<sub>i+11</sub> |A<sub>i+11</sub>| + (-1)<sup>i+1</sup> a<sub>i1</sub> |A<sub>i1</sub>| + ... + (-1)<sup>n+1</sup> a<sub>n1</sub> - |A<sub>n1</sub>|] = -|A|
+
+Segundo caso La matriz B se ha obtenido de A intercambiando las filas i y j = k + 1. La matriz B se puede obtener de A realizando varios cambios de filas consecutivas. En primer lugar realizamos k cambios consecutivos de la fila i de A hasta colocarla en fila j = i + k.
+
+
 
 
 
