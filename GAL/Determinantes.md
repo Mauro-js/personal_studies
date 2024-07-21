@@ -460,8 +460,8 @@ a_{n1}    & a_{n2}   & ... & a_{nn}   \cr
 \begin{bmatrix}
 :                \cr
 :                \cr
-<-- Fila_{i}     \cr
-<-- Fila_{i + 1} \cr
+<-- Fila_{ i }     \cr
+<-- Fila_{ i + 1 } \cr
 :                \cr
 :                \cr
 \end{bmatrix}
